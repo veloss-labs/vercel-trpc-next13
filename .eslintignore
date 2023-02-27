@@ -1,0 +1,33 @@
+# Node.js
+node_modules
+
+# Visual Studio Code
+.vscode
+
+# Next.js
+out
+.next
+public
+next.config.js
+
+# partytown
+/public/~partytown/
+
+# Tailwind
+tailwind.config.js
+postcss.config.js
+
+# sst
+.open-next
+.sst
+
+# scripts
+dist/index.js
+dist/polyfill.js
+
+# config
+sst.config.js
+playwright.config.js
+sentry.server.config.js
+sentry.client.config.js
+sentry.edge.config.js

@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.editor-viewer .ce-block__content {
+  @apply m-0 md:max-w-full;
+}
+
+@import './pages/home.css';
+@import './pages/auth.css';
